@@ -1,0 +1,15 @@
+artifact_uri: /home/nikita/mlflow-handson/mlruns/720169333451639620/c147b48a5f1b464396fca6712af61f42/artifacts
+end_time: 1705560638216
+entry_point_name: ''
+experiment_id: '720169333451639620'
+lifecycle_stage: active
+run_id: c147b48a5f1b464396fca6712af61f42
+run_name: painted-crane-581
+run_uuid: c147b48a5f1b464396fca6712af61f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705560636274
+status: 3
+tags: []
+user_id: nikita

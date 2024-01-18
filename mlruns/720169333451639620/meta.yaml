@@ -1,0 +1,6 @@
+artifact_location: /home/nikita/mlflow-handson/mlruns/720169333451639620
+creation_time: 1705560489870
+experiment_id: '720169333451639620'
+last_update_time: 1705560489870
+lifecycle_stage: active
+name: ElasticNet_wine

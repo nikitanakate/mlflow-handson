@@ -1,0 +1,15 @@
+artifact_uri: /home/nikita/mlflow-handson/mlruns/720169333451639620/da96e9af460f46c886697ade8c77311c/artifacts
+end_time: 1705560632336
+entry_point_name: ''
+experiment_id: '720169333451639620'
+lifecycle_stage: active
+run_id: da96e9af460f46c886697ade8c77311c
+run_name: kindly-swan-889
+run_uuid: da96e9af460f46c886697ade8c77311c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705560630411
+status: 3
+tags: []
+user_id: nikita

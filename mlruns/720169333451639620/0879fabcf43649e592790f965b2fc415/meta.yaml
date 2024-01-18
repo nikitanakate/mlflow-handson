@@ -1,0 +1,15 @@
+artifact_uri: /home/nikita/mlflow-handson/mlruns/720169333451639620/0879fabcf43649e592790f965b2fc415/artifacts
+end_time: 1705560624585
+entry_point_name: ''
+experiment_id: '720169333451639620'
+lifecycle_stage: active
+run_id: 0879fabcf43649e592790f965b2fc415
+run_name: colorful-grub-498
+run_uuid: 0879fabcf43649e592790f965b2fc415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705560621657
+status: 3
+tags: []
+user_id: nikita
